@@ -1,6 +1,9 @@
 # Archivos de configuración sensibles
 config/database.php
 
+# Archivos de datos
+*.csv
+
 # Archivos del sistema
 .DS_Store
 Thumbs.db

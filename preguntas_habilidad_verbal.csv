@@ -1,0 +1,30 @@
+Habilidad Verbal,Sinónimo de “escaso”:,poco,mucho,abundante,grande,A,medio
+Habilidad Verbal,Sinónimo de “efímero”:,breve,largo,antiguo,permanente,A,dificil
+Habilidad Verbal,Sinónimo de “abundante”:,escaso,numeroso,poco,raro,B,medio
+Habilidad Verbal,Significado de “perseverar”:,insistir,abandonar,huir,callar,A,medio
+Habilidad Verbal,Significado de “implícito”:,expreso,tácito,visible,evidente,B,dificil
+Habilidad Verbal,Significado de “benevolente”:,amable,cruel,rápido,fuerte,A,dificil
+Habilidad Verbal,Relación: Pintor es a pincel como escritor es a:,pluma,libro,mesa,hoja,A,medio
+Habilidad Verbal,Relación: Médico es a hospital como maestro es a:,escuela,casa,oficina,tienda,A,facil
+Habilidad Verbal,Relación: Doctor es a paciente como abogado es a:,cliente,maestro,juez,estudiante,A,medio
+Habilidad Verbal,Palabra intrusa: sol, luna, estrella, árbol:,árbol,A,facil
+Habilidad Verbal,Palabra intrusa: rojo, azul, verde, perro:,perro,A,facil
+Habilidad Verbal,Orden lógico: Semilla, árbol, fruto, germinación:,Semilla-germinación-árbol-fruto,A,dificil
+Habilidad Verbal,Orden lógico: Idea, esquema, redacción, revisión:,Idea-esquema-redacción-revisión,A,dificil
+Habilidad Verbal,Completa: La lluvia cae cuando…,se condensan nubes,sube temperatura,hace frío,se evapora,A,medio
+Habilidad Verbal,Completa: El hielo se derrite cuando…,aumenta temperatura,disminuye temperatura,se congela,se evapora,A,medio
+Habilidad Verbal,Completa: El agua es transparente porque…,no tiene color,es fría,es líquida,es ligera,A,medio
+Habilidad Verbal,Antónimo de “valiente”:,audaz,cobarde,decidido,fuerte,B,facil
+Habilidad Verbal,Antónimo de “antiguo”:,viejo,moderno,histórico,clásico,B,facil
+Habilidad Verbal,Antónimo de “amplio”:,estrecho,grande,alto,largo,A,facil
+Habilidad Verbal,Analogía: Libro es a leer como cuchillo es a:,cortar,escribir,hablar,mirar,A,medio
+Habilidad Verbal,Analogía: Frío es a hielo como calor es a:,fuego,agua,vapor,aire,A,medio
+Habilidad Verbal,Analogía: Día es a noche como luz es a:,oscuridad,sol,tiempo,calor,A,facil
+Habilidad Verbal,Analogía: Agua es a sed como comida es a:,hambre,mesa,plato,cocina,A,facil
+Habilidad Verbal,"Sinónimo de “eficiente”:",eficaz,torpe,lento,inepto,A,medio
+Habilidad Verbal,"Significado de “altruista”:",solidario,egoísta,rico,poderoso,A,dificil
+Habilidad Verbal,"Relación: Llave es a puerta como contraseña es a:",sistema,pared,casa,libro,A,medio
+Habilidad Verbal,"Palabra intrusa: perro, gato, caballo, mesa:",mesa,perro,gato,caballo,A,facil
+Habilidad Verbal,"Ordena idea lógica: Nube, lluvia, evaporación, sol:",Sol-evaporación-nube-lluvia,Nube-lluvia-sol-evaporación,Lluvia-nube-sol-evaporación,Sol-nube-evaporación-lluvia,A,dificil
+Habilidad Verbal,"Completa: El fuego se apaga cuando…",falta oxígeno,aumenta oxígeno,sube temperatura,llueve mucho,A,medio
+Habilidad Verbal,"Antónimo de “débil”:",fuerte,lento,pequeño,bajo,A,facil
