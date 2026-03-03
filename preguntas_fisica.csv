@@ -1,0 +1,42 @@
+Física,Velocidad constante implica:,aceleración cero,movimiento detenido,mayor fuerza,mayor masa,A,medio
+Física,Velocidad =:,distancia/tiempo,fuerza×masa,masa×altura,tiempo/distancia,A,medio
+Física,Unidad de temperatura en SI:,kelvin,celsius,newton,joule,A,medio
+Física,Unidad de potencia:,watt,joule,newton,kelvin,A,medio
+Física,Unidad de fuerza:,joule,newton,watt,metro,B,medio
+Física,Unidad de frecuencia:,hertz,newton,joule,watt,A,medio
+Física,Unidad de energía:,joule,metro,segundo,newton,A,medio
+Física,Trabajo se mide en:,watt,newton,joule,kelvin,C,medio
+Física,Trabajo mecánico requiere:,fuerza y desplazamiento,solo fuerza,solo velocidad,solo masa,A,medio
+Física,Trabajo es negativo cuando:,fuerza opuesta desplazamiento,fuerza positiva,masa alta,velocidad cero,A,dificil
+Física,Trabajo es cero cuando:,no hay desplazamiento,no hay fuerza,ambas anteriores,siempre,C,dificil
+Física,Trabajo = fuerza ×:,distancia,masa,velocidad,tiempo,A,medio
+Física,Temperatura se mide en:,metros,kelvin,gramos,litros,B,facil
+Física,Sonido no viaja en:,aire,agua,metal,vacío,D,medio
+Física,Sonido necesita:,vacío,medio material,aire siempre,agua,B,medio
+Física,Si velocidad=20m/s tiempo=5s distancia=?,100m,50m,25m,75m,A,medio
+Física,Si fuerza=30N masa=6kg aceleración=?,5m/s²,4m/s²,6m/s²,3m/s²,A,medio
+Física,Si fuerza=20N masa=4kg aceleración=?,5m/s²,4m/s²,6m/s²,3m/s²,A,medio
+Física,Si distancia=100m tiempo=20s velocidad=?,2m/s,4m/s,5m/s,10m/s,C,medio
+Física,Presión disminuye cuando:,aumenta área,disminuye área,aumenta fuerza,disminuye masa,A,medio
+Física,Presión = fuerza /:,área,masa,tiempo,velocidad,A,medio
+Física,Newton formuló leyes del:,movimiento,relatividad,magnetismo,luz,A,medio
+Física,Movimiento uniforme tiene:,velocidad constante,fuerza variable,aceleración variable,masa variable,A,medio
+Física,Luz viaja más rápido en:,agua,vidrio,vacío,aire,C,dificil
+Física,Luz es una:,onda,partícula,ambas,ninguna,C,dificil
+Física,Luz blanca es mezcla de:,colores,ondas,partículas,gases,A,dificil
+Física,Ley de inercia es primera ley de:,Newton,Einstein,Galileo,Bohr,A,medio
+Física,Ley de gravitación universal fue propuesta por:,Newton,Einstein,Galileo,Copérnico,A,medio
+Física,Ley de acción y reacción es tercera ley de:,Newton,Einstein,Galileo,Bohr,A,medio
+Física,Ley de acción y reacción es de:,Newton,Einstein,Galileo,Tesla,A,medio
+Física,La presión aumenta cuando:,disminuye área,aumenta área,disminuye fuerza,disminuye masa,A,medio
+Física,La luz es onda electromagnética que no necesita:,medio material,energía,frecuencia,longitud,A,medio
+Física,La inercia depende de:,masa,color,velocidad,energía,A,medio
+Física,Instrumento para medir corriente:,voltímetro,amperímetro,barómetro,termómetro,B,medio
+Física,Gravedad en Tierra ≈:,9.8 m/s²,10 m/s²,8.9 m/s²,9 m/s²,A,medio
+Física,Fuerza = masa ×:,velocidad,aceleración,tiempo,distancia,B,medio
+Física,Energía potencial depende de:,altura,velocidad,color,temperatura,A,medio
+Física,Energía potencial aumenta con:,altura,color,velocidad,temperatura,A,medio
+Física,Energía cinética depende de:,masa y velocidad,color,temperatura,volumen,A,medio
+Física,Energía cinética depende de:,masa y velocidad,altura,color,volumen,A,medio
+Física,El sonido es onda:,mecánica,luminosa,eléctrica,magnética,A,medio
+Física,Aceleración es cambio de:,velocidad,masa,fuerza,energía,A,medio

@@ -1,0 +1,263 @@
+.correcta {
+    background: #e6ffe6;
+}
+.incorrecta {
+    background: #ffe6e6;
+}
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Space+Grotesk:wght@400;500;600&display=swap');
+
+:root {
+    --bg: #f6f1e8;
+    --bg-accent: #f0dfc7;
+    --ink: #1a1a1a;
+    --muted: #5b5b5b;
+    --card: #ffffff;
+    --accent: #0f766e;
+    --accent-2: #c2410c;
+    --border: #e2d9c7;
+    --shadow: 0 16px 30px rgba(26, 26, 26, 0.12);
+    --radius: 14px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Space Grotesk', 'Trebuchet MS', sans-serif;
+    color: var(--ink);
+    background:
+        radial-gradient(circle at 20% 20%, rgba(240, 223, 199, 0.7), transparent 55%),
+        radial-gradient(circle at 80% 10%, rgba(15, 118, 110, 0.12), transparent 45%),
+        linear-gradient(160deg, var(--bg) 0%, var(--bg-accent) 70%, #f9f4ec 100%);
+    min-height: 100vh;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent-2);
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 20px 64px;
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.page-title {
+    font-family: 'Fraunces', 'Georgia', serif;
+    font-size: 32px;
+    margin: 0 0 8px;
+}
+
+.title-small {
+    font-size: 24px;
+    margin: 0;
+}
+
+.title-medium {
+    font-size: 26px;
+    margin: 0;
+}
+
+.page-subtitle {
+    margin: 0;
+    color: var(--muted);
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.nav a {
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 8px 14px;
+    border-radius: 999px;
+    box-shadow: 0 6px 14px rgba(26, 26, 26, 0.08);
+    font-weight: 500;
+}
+
+.card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 20px;
+}
+
+.card.narrow {
+    max-width: 520px;
+    margin: 0 auto;
+}
+
+.card + .card {
+    margin-top: 18px;
+}
+
+.card-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+
+.stack {
+    display: grid;
+    gap: 12px;
+}
+
+.form-gap {
+    margin-top: 20px;
+}
+
+.table-wrap {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+    text-align: left;
+    background: #f8f4ec;
+    font-weight: 600;
+}
+
+.table th,
+.table td {
+    padding: 12px 10px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+}
+
+.table tr:last-child td {
+    border-bottom: none;
+}
+
+input,
+select,
+textarea {
+    font: inherit;
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: #fff;
+}
+
+textarea {
+    min-height: 110px;
+    resize: vertical;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    outline: 2px solid rgba(15, 118, 110, 0.2);
+    border-color: var(--accent);
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btn-secondary {
+    background: #fff;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+}
+
+.btn:hover {
+    filter: brightness(0.96);
+}
+
+.alert {
+    background: #fff3e0;
+    border: 1px solid #f7c387;
+    padding: 10px 12px;
+    border-radius: 10px;
+    color: #8a4b08;
+}
+
+.question-card {
+    margin-bottom: 16px;
+}
+
+.question-title {
+    font-weight: 600;
+    margin: 0 0 10px;
+}
+
+.option {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    padding: 8px 10px;
+    border: 1px dashed var(--border);
+    border-radius: 10px;
+    background: #fcfaf6;
+    margin-bottom: 8px;
+}
+
+.option input {
+    width: auto;
+    margin-top: 4px;
+}
+
+.actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+@media (max-width: 700px) {
+    .page-header {
+        align-items: flex-start;
+    }
+
+    .page-title {
+        font-size: 28px;
+    }
+
+    .nav a,
+    .btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .card {
+        padding: 16px;
+    }
+}
