@@ -1,5 +1,6 @@
 # Archivos de configuración sensibles
 config/database.php
+config/database_local.php
 
 # Archivos de datos
 *.csv
